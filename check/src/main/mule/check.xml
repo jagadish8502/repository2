@@ -147,7 +147,7 @@ output application/json
 output application/json
 ---
 {
-  message: "Single id content....."
+  message: "Single id conten"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
